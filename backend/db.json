@@ -1,0 +1,95 @@
+{
+  "users": [
+    {
+      "id": "_PWfSxfh_R5i7NhIKhblr",
+      "username": "admin.master",
+      "email": "admin@example.com",
+      "password": "admin123",
+      "isAdmin": true
+    }
+  ],
+  "products": [
+    {
+      "id": "ZXtDZrDNBCvm97tVyjG_t",
+      "title": "Mobile Phone",
+      "price": 99999,
+      "category": "electronics",
+      "description": "Realme p1 pro max ",
+      "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9"
+    },
+    {
+      "id": "haaSVhzjnZem6gUrLnxb6",
+      "title": "home decor",
+      "price": 4656,
+      "category": "home decor",
+      "description": "plant decor for the balcony ",
+      "image": "https://images.unsplash.com/photo-1521334884684-d80222895322"
+    },
+    {
+      "id": "NcLwDHxEfoURt4708QEuk",
+      "title": "Book",
+      "price": 167,
+      "category": "books",
+      "description": "ndkjfnf buufedm bdiuduskd wu8dywij",
+      "image": "https://images.unsplash.com/photo-1512820790803-83ca734da794"
+    },
+    {
+      "id": "yQCLCkzV2Ku_4mV0tWpZF",
+      "title": "watch ",
+      "price": 40000,
+      "category": "electronics",
+      "description": "diuehfen fkjhriuffn khrinfefmeoinmeirenn",
+      "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30"
+    },
+    {
+      "id": "USe8256WII42A8wF0rvBr",
+      "title": "laptop",
+      "price": 5444666,
+      "category": "electronics",
+      "description": "bcurfrjvbrvnv ifrjfn itougtnht",
+      "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8"
+    },
+    {
+      "id": "eQR0DaipKxr0xlz04Qgri",
+      "title": "iPhone 14 Pro",
+      "price": 99999,
+      "category": "electronics",
+      "description": "Latest Apple iPhone with A16 Bionic chip, amazing camera, and smooth performance.",
+      "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8"
+    },
+    {
+      "id": "lOBzfBe5UvlnhHYZAg1hg",
+      "title": "Men's Casual T-Shirt",
+      "price": 799,
+      "category": "clothing",
+      "description": "mfortable cotton t-shirt for daily wear with modern fit.",
+      "image": "https://images.unsplash.com/photo-1521334884684-d80222895322"
+    },
+    {
+      "id": "RTLS5wx7AZJAGbikkNCGs",
+      "title": "Test Product",
+      "price": 100,
+      "category": "electronics",
+      "description": "This is just a dummy product for testing preview functionality.",
+      "image": "https://picsum.photos/300"
+    },
+    {
+      "id": "iJHQ29bTwEtDF6Dll7t-3",
+      "title": "np img",
+      "price": 0,
+      "category": "home decor",
+      "description": "vgthbj vyhhbhvgf ghkjhj",
+      "image": ""
+    },
+    {
+      "id": "TgnWmawsYzpRxvxbNvwo-",
+      "title": "rrrrr",
+      "price": 6767,
+      "category": "clothing",
+      "description": "ghtyyhythy kfihrigknrkghji",
+      "image": "https://images.unsplash.com/photo-1521334884684-d80222895322"
+    }
+  ],
+  "carts": [],
+  "$schema": "./node_modules/json-server/schema.json"
+}
